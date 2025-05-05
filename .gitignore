@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings 
+.vscode/
+
+# Backups for Json database
+data/*.bak.json
